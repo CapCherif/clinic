@@ -13,3 +13,7 @@ function CheckLogin(){
 function Abla(){
     console.log('message');
 }
+
+function Logout(){
+    console.log('logged out')
+    }
