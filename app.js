@@ -9,3 +9,7 @@ function CheckLogin(){
         return false;
     }
 }
+
+function Abla(){
+    console.log('message');
+}
